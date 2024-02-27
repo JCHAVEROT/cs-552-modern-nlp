@@ -131,3 +131,6 @@ dmypy.json
 wandb/
 training_output/
 .DS_Store
+
+# JetBrain files
+*.idea/*
