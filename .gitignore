@@ -134,3 +134,4 @@ training_output/
 
 # JetBrain files
 *.idea/*
+*.idea
