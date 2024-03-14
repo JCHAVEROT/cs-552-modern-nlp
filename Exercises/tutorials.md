@@ -73,7 +73,9 @@ There are 2 ways you can install Git LFS:
 2. Create a `.gitattributes` file by tracking certain files or folders. Make sure not to track everything but only the necessary checkpoints (e.g., the best-performing ones). The following commands will automatically create and append to a `.gitattributes` file:
     ```shell
     # an example to track all large files in the "models" folder
+    # second line tracks the directory content recursively
     git lfs track "models/"
+    git lfs track "models/**"
     ```
 
 3. Commit the `.gitattributes` file first.
