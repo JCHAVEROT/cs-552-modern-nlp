@@ -39,7 +39,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 4**  | 13 Mar <br />14 Mar  |  **\[Online only\]** Pretraining: ELMo, BERT, MLM, task generality &#124; Transfer Learning: Introduction [[slides][4s]] <br /> Assignment 1 Q&A   |  Antoine Bosselut  <br />  Simin Fan                 		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases [[slides][5s]] <br />Generation: Task    |  Antoine Bosselut                   		|
+| **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases [[slides][5s]] <br />Generation: Task  [[slides][5s]]   |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 6**  | 27 Mar <br />28 Mar  |  Generation: Decoding and Training  <br />Generation: Evaluation  |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -78,7 +78,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1 [[code][4e]] |  Badr AlKhamissi  <br /> Simin Fan    |
 |             |         |                                                                                       |                                                                     |
 | **Week 5**  | 20 Mar  |      -     |       -          |
-| **Week 5**  | 21 Mar  |  Pretraining and Transfer Learning Pt. 1 review <br />Transfer Learning Pt. 2        |  Simin Fan              |
+| **Week 5**  | 21 Mar  |  Pretraining and Transfer Learning Pt. 1 review <br />Transfer Learning Pt. 2    [[code][5e]] |  Simin Fan              |
 |             |         |                                                                                       |                                                                     |
 | **Week 6**  | 27 Mar  |  Assignment 2 Q&A    |  Simin Fan, Silin Gao    |
 | **Week 6**  | 28 Mar  |  Transfer Learning Pt. 2 review <br />Text Generation - Assignment 2 Q&A    |  Simin Fan <br />Deniz Bayazit, Silin Gao          |
@@ -200,7 +200,7 @@ Please email us at **nlp-cs552-spring2024-ta-team [at] groupes [dot] epfl [dot] 
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
 [3e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%203%20-%20RNNs
 [4e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%204%20-%20Pretraining%20%26%20Finetuning
-<!-- [5e]: -->
+[5e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%205%20-%20Biases%20%26%20Prompting
 <!-- [6e]: -->
 <!-- [7e]: -->
 <!-- [8e]: -->
