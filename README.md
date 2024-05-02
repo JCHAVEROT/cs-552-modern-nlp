@@ -166,8 +166,8 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
     <tr>
         <td><strong>Week 9</strong></td>
         <td>24 Apr <br />25 Apr</td>
-        <td>Ethics in NLP: Bias / Fairness and Toxicity, Privacy, Disinformation <br /><strong>No class</strong> (Project work; A1 Grade Review Session)</td>
-        <td>Suggested reading: -</td>
+        <td>Ethics in NLP: Bias / Fairness and Toxicity, Privacy, Disinformation  <a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209">[slides]</a><br /><strong>No class</strong> (Project work; A1 Grade Review Session)</td>
+        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
         <td>Anna Sotnikova</td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
     <tr>
         <td><strong>Week 10</strong></td>
         <td>1 May <br />2 May</td>
-        <td>Tokenization: BPE, WP, Char-based &#124; Multilingual LMs <br />Guest Lecture: Kayo Yin</td>
+        <td>Tokenization: BPE, WP, Char-based &#124; Multilingual LMs <a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2010">[slides]</a><br />Guest Lecture: Kayo Yin</td>
         <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2112.10508">Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP</a></li><li><a href="https://arxiv.org/abs/2105.13626">Byt5: Towards a token-free future with pre-trained byte-to-byte models</a></li><li><a href="https://arxiv.org/abs/1508.07909">Neural machine translation of rare words with subword units</a></li><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://arxiv.org/abs/2005.00052">Mad-x: An adapter-based framework for multi-task cross-lingual transfer</a></li><li><a href="https://arxiv.org/abs/2110.07560">Composable sparse fine-tuning for cross-lingual transfer</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li></ul></td>
         <td>Negar Foroutan <br /> Kayo Yin</td>
     </tr>
@@ -268,12 +268,11 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |         |                                                                                       |                                                                     |
 | **Week 7**  |  10 Apr  |  Assignment 3 Q&A                   |  Badr AlKhamissi <br /> Deniz Bayazit  |
 | **Week 7**  |  11 Apr  |  Text Generation review <br />In-context Learning          [[code][7e]]    |  Deniz Bayazit <br /> Mete Ismayilzada  |
-|             |         |                                                                                       |                                                                     |
+|             |         |  |  |
 | **Week 8**  | 17 Apr  | No lecture                                                 | - |
-| **Week 8**  | 18 Apr  |  Assignment 3 Q&A  <br /> A1 Grade Review Session                |  Badr AlKhamissi <br /> Deniz Bayazit <br /> Mete Ismayilzada |                                                         |
-
-| **Week 9** | 24 & 25 Apr  |  Project                                                               |  TA meetings on-demand                              |
-|             |         |                                                                                       |                                                                     |
+| **Week 8**  | 18 Apr  |  Assignment 3 Q&A  <br /> A1 Grade Review Session                |  Badr AlKhamissi <br /> Deniz Bayazit <br /> Mete Ismayilzada |     
+| **Week 9** | 24 & 25 Apr  |  Project |  TA meetings on-demand |
+|             |         |  |  |
 | **Week 10** |  1 & 2 May  |  Project                                                                             |  TA meetings on-demand                                              |
 |             |         |                                                                                       |                                                                     |
 | **Week 11** | 8 & 9 May  |  Project  <br /> Milestone 1 Feedback                                                |  TA meetings on-demand                              |
