@@ -279,9 +279,9 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |         |                                                                                       |                                                                     |
 | **Week 12** | 15 & 16 May  |  Project                                                                              |  TA meetings on-demand                                              |
 |             |         |                                                                                       |                                                                     |
-| **Week 13** | 22 May  |  A3 Grade Review Session                                                 |  Badr AlKhamissi <br /> Deniz Bayazit                           |
+| **Week 13** | 22 May  |  Project                                                  |  Badr AlKhamissi <br /> Deniz Bayazit                           |
 |             |         |                                                                                       |                                                                     |
-| **Week 13** | 23 May  |  Project                                                 |  TA meetings on-demand                          |
+| **Week 13** | 23 May  |  A3 Grade Review Session                                                 |  TA meetings on-demand                          |
 |             |         |                                                                                       |                                                                     |
 | **Week 14** | 30 May   |  Project <br /> Milestone 2 Feedback                                                                             |  TA meetings on-demand                                              |
 
