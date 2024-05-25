@@ -303,7 +303,7 @@ Assignment and project release annoucements will be on Ed. Your work will be sub
 All large files such as model checkpoints need to be pushed to the repository with [Git LFS](https://git-lfs.com/). Large files can take time to upload, therefore please avoid last-minute uploads that can create potential submission delays. We also propose to use [Colab](https://colab.research.google.com/) as a free GPU resource. You can find tutorials on all of these resources [here][0t].
 
 ### Late Days Policy
-All assignments and milestones are due at 23:59 on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 7 late days over the course of the semester to be allocated to the assignments and project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 14th. We will automatically calculate the late days according to your last commit; hence you don’t have to inform us. For group projects, when everyone has some late days, we will deduct individually from everyone. In the scenario where one person has no more late days, that student will lose points for the late submission. The other students in the team will continue to use their late days (i.e. no points will be deducted from them).
+All assignments and milestones are due at 23:59 on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 7 late days over the course of the semester to be allocated to the assignments and project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 14th. We will automatically calculate the late days according to your last commit; hence you don't have to inform us. For group projects, when everyone has some late days, we will deduct individually from everyone. In the scenario where one person has no more late days, that student will lose points for the late submission. The other students in the team will continue to use their late days (i.e. no points will be deducted from them). After you have used all your allotted late days, the penalty policy is a 25% deduction of the grade per day. 
 
 ### Assignments (40%):
 There will be three assignments throughout the course. They will be released and due according to the following schedule:
@@ -341,7 +341,7 @@ More details on the content of the project and the deliverables of each mileston
 
 #### Milestone 2:
 <!-- - Milestone 2 parameters can be found in the [project description][2p]. -->
-- Due: 26 May 2024
+- Due: 28 May 2024
 
 #### Final Deliverable:
 - The final report, code, and date will be due on June 14th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends.
